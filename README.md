@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Irsyad
 
-<!--
-**Irsy4d5/Irsy4d5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer in training, based in Singapore. Building hands-on experience across AWS, Azure, and Kubernetes.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working through a self-built cloud engineering roadmap covering AWS, Azure, Docker, Kubernetes, Terraform, and CI/CD. I document each lab as I go, including the mistakes and how I fixed them.
+
+Check out [cloud-engineering-labs](https://github.com/Irsy4d5/cloud-engineering-labs) for the write-ups.
+
+## Background
+
+6+ years in IT across financial services, government, and healthcare environments. Currently a systems engineer supporting a hedge fund's Singapore office.
+
+Certifications: Microsoft 365 Certified Administrator Expert, Microsoft Certified Azure Administrator Associate, AWS Certified Solutions Architect - Associate.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/irsyad96)
